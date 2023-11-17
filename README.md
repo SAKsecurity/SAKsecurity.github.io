@@ -3,6 +3,7 @@
 <h2>Education</h2>
 <p> - Bachelors in Cyber and Data Security Technology from The University of Arizona </p> 
 <p> - Google Technical Support Fundamentals Certificate</p>
+<p> - Google Foundations of Cybersecurity Certificate</p> 
 <p> - Google Developers Launchpad Ethical Hacking Certification</p>
 <p> - Google Developers Launchpad Hacking Advanced Certification</p>
 <p> - Google Developers Launchpad Cybersecurity Certification</p>
